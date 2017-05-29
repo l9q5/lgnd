@@ -48,7 +48,7 @@
 
 	<video id="Video1" class="center" controls="" autoplay="" name="media">
 	<source src="https://a.safe.moe/EGjYq.mp4" type="video/mp4">
-	<track label="English" kind="subtitles" srclang="en" src="s5e1.vtt" default>
+	<track label="English" kind="subtitles" srclang="en" src="https://raw.githubusercontent.com/l9q5/lgnd/master/s5e1.vtt" default>
 	<a href="demo.mp4">Download the video</a> file.
 	</video>
 
